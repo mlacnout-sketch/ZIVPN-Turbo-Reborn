@@ -2,7 +2,7 @@ name: ZIVPN Native Build
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
